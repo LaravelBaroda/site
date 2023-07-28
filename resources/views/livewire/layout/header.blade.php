@@ -1,6 +1,6 @@
 <!-- header/navigation -->
 <div class="p-5">
-    <div x-data="{ isOpen: false }" class="flex justify-between px-4 py-2 bg-background border-2 border-primary lg:px-8 lg:py-4 z-10 rounded-lg">
+    <div x-data="{ isOpen: false }" class="flex justify-between lcv-container z-10">
         <div class="flex items-center">
             <x-application-logo class="w-12 h-12 pr-2"/>
             <h3 class="text-lg font-lcv text-accent">Laravel Community Vadodara</h3>

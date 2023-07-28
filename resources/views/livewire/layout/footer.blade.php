@@ -1,6 +1,6 @@
 <!-- header/navigation -->
 <div class="p-5">
-    <div class="flex justify-between px-4 py-2 bg-background border-2 border-primary lg:px-8 lg:py-4 z-10 rounded-lg">
+    <div class="flex justify-between z-10 lcv-container">
         <div class="flex items-center">
             <h3 class="font-lcv lcv-link">Footer Left</h3>
         </div>
