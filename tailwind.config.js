@@ -14,8 +14,15 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                sans: ['Cabin', ...defaultTheme.fontFamily.sans],
+                lcv: ['Sniglet', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                'background': '#FAF7F2',
+                'primary': '#4382BB',
+                'secondary': '#AAD9CD',
+                'accent': '#F27348',
+            }
         },
     },
 

@@ -5,3 +5,7 @@
 [x-cloak] {
     display: none;
 }
+
+.lcv-link {
+        @apply text-primary hover:text-accent;
+}

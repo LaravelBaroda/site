@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.65 51.12" class="w-20 h-20">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.65 51.12" class="{{$class}}">
     <defs>
         <style>
             .cls-1 {
