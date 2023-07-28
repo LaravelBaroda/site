@@ -18,9 +18,9 @@
     @livewireStyles
 </head>
 <body>
-<div class="font-sans min-h-screen bg-dots-darker bg-center bg-background selection:bg-red-500 selection:text-white antialiased">
+<div class="font-sans min-h-screen bg-dots-darker bg-center bg-background selection:bg-red-500 selection:text-white antialiased flex flex-col justify-between">
     <livewire:layout.header />
-    <div class="relative flex justify-center items-center">
+    <div class="relative flex-1 flex justify-center items-center">
             {{ $slot }}
     </div>
     <livewire:layout.footer />
